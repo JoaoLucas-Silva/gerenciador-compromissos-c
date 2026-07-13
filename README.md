@@ -32,3 +32,17 @@ Diferente de sistemas estáticos, este projeto foi desenhado para ser eficiente 
    Uso da função nativa de ordenação do C com funções de comparação personalizadas (`compararCompromisso`, `compararCompromisso_ra` e `compara_ra`), permitindo ordenar os dados tanto de forma crescente por RA quanto temporalmente por carimbo de data e hora.
 4. **Alocação Sob Demanda para Filtros:**
    Nas consultas por data específica, o sistema calcula a quantidade exata de registros encontrados e aloca dinamicamente apenas o espaço necessário para o subvetor de exibição, liberando a memória imediatamente após o uso (`free`).
+
+---
+
+### Pré-requisitos e Execução
+* Compilador GCC (GNU Compiler Collection) instalado.
+
+### Passo a Passo
+
+### 1. Compile o código fonte utilizando o GCC (ou no caso do uso de uma IDE pode ser compilado e executado diretamente):
+
+    gcc -Wall -o gerenciador main.c
+
+### 2. Execute o programa no terminal
+Após a compilação é gerado um .exe com o mesmo nome do arquivo do projeto, basta executar e pode ser realizado os testes.
