@@ -1,8 +1,6 @@
 # Sistema de Gerenciamento Acadêmico e de Compromissos em C
 
-Um sistema interativo desenvolvido na linguagem C para o cadastro e gerenciamento de alunos, disciplinas, notas e controle de compromissos. 
-
-Este projeto foi desenvolvido como aplicação prática da disciplina de **Algoritmos II**, com foco no domínio de conceitos de baixo nível, como gestão de memória, manipulação de ponteiros, estruturas de dados personalizadas e algoritmos de ordenação.
+Sistema desenvolvido em C para gerenciamento acadêmico e controle de compromissos, aplicando estruturas de dados, manipulação de memória dinâmica e algoritmos de ordenação como parte da disciplina de Algoritmos II.
 
 ---
 
